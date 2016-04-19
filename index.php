@@ -13,6 +13,6 @@
 
 <script src="js/jquery.js"></script>
 <script src='js/bootstrap.min.js'></script>
-<h1>Welcome the to the project</h1>
+<h1>Welcome project</h1>
 </body>
 </html>
